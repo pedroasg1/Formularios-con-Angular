@@ -1,0 +1,9 @@
+div{
+    bottom: 1px dotted gray;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 10px;
+    padding-top: 0;
+    margin-left: 0;
+    background-color: #e5eef5;
+}
